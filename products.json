@@ -1,0 +1,98 @@
+[
+    {
+        "name":"Black Pepper Whole & Powder",
+        "type":"Spices & Seasonings",
+        "description":"Black pepper is a plant that grows in the tropics, espe or condiment. Usually, it makes things hot.",
+        "image":"images/products/Black Pepper.jpg"
+    },
+    {
+        "name":"Cardamom",
+        "type":"Spices & Seasonings",
+        "description":"Cardamom, sometimes cardamon or cardamum, is a spice made from the seeds of several ",
+        "image":"images/products/Cardamom.jpg"
+    },
+    {
+        "name":"Celery Powder",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Celery Powder.jpg"
+    },
+    {
+        "name":"Cinnamon Powder & Roll",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Cinnamon.jpg"
+    },
+    {
+        "name":"Cloves Ground",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Cloves Ground.jpg"
+    },
+    {
+        "name":"Curry Powder",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Curry Powder.jpg"
+    },
+    {
+        "name":"Fenugreek Powder ",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Fenugreek Powder.jpg"
+    },
+    {
+        "name":"Ginger Chips/T-Cut/Powder",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Ginger.jpg"
+    },
+    {
+        "name":"Mace Ground",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Mace Ground.jpg"
+    },
+    {
+        "name":"Nutmeg Ground",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Nutmeg Ground.jpg"
+    },
+    {
+        "name":"Red Chilli Flakes",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Red Chilli Flakes.jpg"
+    },
+    {
+        "name":"Red Chilli Powder",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Red Chilli Powder.jpg"
+    },
+    {
+        "name":"Turmeric Powder",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Turmeric Powder.jpg"
+    },
+    {
+        "name":"White Pepper Whole & Powder",
+        "type":"Spices & Seasonings",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/White Pepper.jpg"
+    },
+    {
+        "name":"Cheese Powder",
+        "type":"Spray Dried Powder",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Cheese Powder.jpg"
+    },
+    {
+        "name":"Lemon Powder",
+        "type":"Spray Dried Powder",
+        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
+        "image":"images/products/Lemon Powder.jpg"
+    }
+]
