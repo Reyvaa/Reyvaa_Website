@@ -1,116 +1,254 @@
 [
     {
-        "name":"Black Pepper Whole & Powder",
-        "type":"Spices & Seasonings",
-        "description":"Black pepper is a plant that grows in the tropics, espe or condiment. Usually, it makes things hot.",
-        "image":"images/products/Black Pepper.jpg"
+        "name": "Basil Cut & Ground",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Basil.jpg"
     },
     {
-        "name":"Cardamom",
-        "type":"Spices & Seasonings",
-        "description":"Cardamom, sometimes cardamon or cardamum, is a spice made from the seeds of several ",
-        "image":"images/products/Cardamom.jpg"
+        "name": "Bay Leaves",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Bay Leaves.jpg"
     },
     {
-        "name":"Celery Powder",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Celery Powder.jpg"
+        "name": "Coriander Powder & Leaves",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Coriander.jpg"
     },
     {
-        "name":"Cinnamon Powder & Roll",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Cinnamon.jpg"
+        "name": "Curry Leaves & Powder",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Curry Leaves.jpg"
     },
     {
-        "name":"Cloves Ground",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Cloves Ground.jpg"
+        "name": "Dill Stalk",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Dill Stalk.jpg"
     },
     {
-        "name":"Curry Powder",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Curry Powder.jpg"
+        "name": "Lemongrass Cut",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Lemongrass Cut.jpg"
     },
     {
-        "name":"Fenugreek Powder ",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Fenugreek Powder.jpg"
+        "name": "Marjoram Cut",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Marjoram Cut.jpg"
     },
     {
-        "name":"Ginger Chips/T-Cut/Powder",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Ginger.jpg"
+        "name": "Mint Leaves & Ground",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Mint Leaves.jpg"
     },
     {
-        "name":"Mace Ground",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Mace Ground.jpg"
+        "name": "Mixed Herbs",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Mixed Herbs.jpg"
     },
     {
-        "name":"Nutmeg Ground",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Nutmeg Ground.jpg"
+        "name": "Oregano Cut",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Oregano Cut.jpg"
     },
     {
-        "name":"Red Chilli Flakes",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Red Chilli Flakes.jpg"
+        "name": "Parsley Flakes",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Parsley Flakes.jpg"
     },
     {
-        "name":"Red Chilli Powder",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Red Chilli Powder.jpg"
+        "name": "Rosemary Cut",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Rosemary Cut.jpg"
     },
     {
-        "name":"Turmeric Powder",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Turmeric Powder.jpg"
+        "name": "Sage Leaves",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Sage Leaves.jpg"
     },
     {
-        "name":"White Pepper Whole & Powder",
-        "type":"Spices & Seasonings",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/White Pepper.jpg"
-    },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    {
-        "name":"Cheese Powder",
-        "type":"Spray Dried Powder",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Cheese Powder.jpg"
+        "name": "Spinach Leaves",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Spinach Leaves.jpg"
     },
     {
-        "name":"Lemon Powder",
-        "type":"Spray Dried Powder",
-        "description":"Fingerstache flexitarian street art 8-bit waistcoat.Distillery hexagon disrupt edison bulbche.",
-        "image":"images/products/Lemon Powder.jpg"
+        "name": "Thyme Cut",
+        "type": "Dried Herbs",
+        "description": "",
+        "image": "images/products/Thyme Cut.jpg"
+    },
+    {
+        "name": "Amchur Powder",
+        "type": "Dehydrated Vegetable",
+        "description": "",
+        "image": "images/products/Amchur Powder.jpg"
+    },
+    {
+        "name": "Beetroot Powder",
+        "type": "Dehydrated Vegetable",
+        "description": "",
+        "image": "images/products/Beetroot Powder.jpg"
+    },
+    {
+        "name": "carrot Flakes/Bits",
+        "type": "Dehydrated Vegetable",
+        "description": "",
+        "image": "images/products/carrot.jpg"
+    },
+    {
+        "name": "Garlic Flakes/ Chopped/ Granules/ Minced/ Powder",
+        "type": "Dehydrated Vegetable",
+        "description": "",
+        "image": "images/products/Garlic.jpg"
+    },
+    {
+        "name": "Onion Flakes/ Chopped/ Granules/ Minced/ Powder",
+        "type": "Dehydrated Vegetable",
+        "description": "",
+        "image": "images/products/Onion.jpg"
+    },
+    {
+        "name": "Cheese Powder",
+        "type": "Spray Dried Powder",
+        "description": "",
+        "image": "images/products/Cheese Powder.jpg"
+    },
+    {
+        "name": "Lemon Powder",
+        "type": "Spray Dried Powder",
+        "description": "",
+        "image": "images/products/Lemon Powder.jpg"
+    },
+    {
+        "name": "Papaya Powder",
+        "type": "Spray Dried Powder",
+        "description": "",
+        "image": "images/products/Papaya Powder.jpg"
+    },
+    {
+        "name": "Pineapple Powder",
+        "type": "Spray Dried Powder",
+        "description": "",
+        "image": "images/products/Pineapple Powder.jpg"
+    },
+    {
+        "name": "Pomegranate Powder",
+        "type": "Spray Dried Powder",
+        "description": "",
+        "image": "images/products/Pomegranate Powder.jpg"
+    },
+    {
+        "name": "Strawberry Powder",
+        "type": "Spray Dried Powder",
+        "description": "",
+        "image": "images/products/Strawberry Powder.jpg"
+    },
+    {
+        "name": "Tomato Powder",
+        "type": "Spray Dried Powder",
+        "description": "",
+        "image": "images/products/Tomato Powder.jpg"
+    },
+    {
+        "name": "Tamarind Powder",
+        "type": "Spray Dried Powder",
+        "description": "",
+        "image": "images/products/Tamarind Powder.jpg"
+    },
+    {
+        "name": "Black Pepper Whole & Powder",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Black Pepper.jpg"
+    },
+    {
+        "name": "Cardamom",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Cardamom.jpg"
+    },
+    {
+        "name": "Celery Powder",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Celery Powder.jpg"
+    },
+    {
+        "name": "Cinnamon Powder & Roll",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Cinnamon.jpg"
+    },
+    {
+        "name": "Cloves Ground",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Cloves Ground.jpg"
+    },
+    {
+        "name": "Curry Powder",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Curry Powder.jpg"
+    },
+    {
+        "name": "Fenugreek Powder ",
+        "type": "Spices & Seasonings / Dried Herbs",
+        "description": "",
+        "image": "images/products/Fenugreek Powder.jpg"
+    },
+    {
+        "name": "Ginger Chips/T-Cut/Powder",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Ginger.jpg"
+    },
+    {
+        "name": "Mace Ground",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Mace Ground.jpg"
+    },
+    {
+        "name": "Nutmeg Ground",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Nutmeg Ground.jpg"
+    },
+    {
+        "name": "Red Chilli Flakes",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Red Chilli Flakes.jpg"
+    },
+    {
+        "name": "Red Chilli Powder",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Red Chilli Powder.jpg"
+    },
+    {
+        "name": "Turmeric Powder",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/Turmeric Powder.jpg"
+    },
+    {
+        "name": "White Pepper Whole & Powder",
+        "type": "Spices & Seasonings",
+        "description": "",
+        "image": "images/products/White Pepper.jpg"
     }
 ]

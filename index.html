@@ -6,6 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
   <title>Home</title>
 </head>
 
@@ -22,7 +27,7 @@
       <nav class="md:ml-auto flex flex-wrap items-center  justify-center drop-shadow-lg">
         <a class="mr-5 hover:text-blue-800">Home</a>
         <a href="products.html" class="mr-5 hover:text-blue-800">Products</a>
-        <a class="mr-5 hover:text-blue-800">Contact Us</a>
+        <a class="mr-5 hover:text-blue-800" href="#contact">Contact Us</a>
       </nav>
     </div>
   </header>
@@ -58,17 +63,17 @@
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
               <img src="images/home/sl-2.jpg"
                 class="block absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2" alt="...">
-                <div class="absolute inset-x-[15%] py-5 hidden  text-center text-white md:block">
-                  <h5 class="text-2xl">Wide range of Products</h5>
-                </div>
+              <div class="absolute inset-x-[15%] py-5 hidden  text-center text-white md:block">
+                <h5 class="text-2xl">Wide range of Products</h5>
+              </div>
             </div>
             <!-- Item 3 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
               <img src="images/home/sl-3.jpg"
                 class="block absolute top-1/2 left-1/2 w-full -translate-x-1/2 -translate-y-1/2" alt="...">
-                <div class="absolute inset-x-[15%] py-5 hidden  text-center text-white md:block">
-                  <h5 class="text-2xl">Quality Service</h5>
-                </div>
+              <div class="absolute inset-x-[15%] py-5 hidden  text-center text-white md:block">
+                <h5 class="text-2xl">Quality Service</h5>
+              </div>
             </div>
           </div>
           <!-- Slider indicators -->
@@ -234,7 +239,7 @@
 
 
 
-  <section class="text-gray-600 body-font relative">
+  <section class="text-gray-600 body-font relative" id="contact">
     <div class="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
       <div
         class="lg:w-2/3 md:w-1/2 bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
@@ -268,11 +273,15 @@
 
 
 
+
   <footer class="text-gray-600 body-font">
     <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
       <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-        <span class="ml-3 text-xl">REYVAA INTERNATIONAL</span>
+        <span class="ml-3 text-xl">Visitors :</span>
+        <img src="https://www.cutercounter.com/hits.php?id=hxnfdoo&nd=6&style=1" alt="visitor counter items-center"
+          class="mt-1 text-xl h-6">
       </a>
+
       <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
         <a class="text-gray-500">
           <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5"
