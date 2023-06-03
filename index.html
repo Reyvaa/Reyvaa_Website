@@ -16,10 +16,11 @@
   <meta name="google-site-verification" content="BiX3Em-5OHYeO7C0dLtIRACEhapyqYZ7OkKL1wtj4Uc" />
 
 
+  
   <link rel="apple-touch-icon" sizes="180x180" href="images/favicon_io/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon_io/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon_io/favicon-16x16.png" />
-
+  <link rel="icon" type="image/png" href="images/favicon_io/favicon.ico" />
 
 
   <script src="https://cdn.tailwindcss.com"></script>
@@ -51,7 +52,7 @@
 
 
   <section class="text-gray-600 body-font">
-    <div class="container px-5 py-10 mx-auto flex flex-wrap">
+    <div class="container  py-10 mx-auto flex flex-wrap">
       <div class=" w-full mb-5 ">
         <h1 class=" text-3xl font-medium title-font text-gray-900 text-center">We supply 40+ Products all over the Globe
         </h1>
@@ -59,7 +60,7 @@
       <div class=" w-full mx-auto">
         <div id="default-carousel" class="relative" data-carousel="static">
           <!-- Carousel wrapper -->
-          <div class="overflow-hidden relative lg:h-96	md:h-56 h-56  rounded-lg ">
+          <div class="overflow-hidden relative lg:h-screen	md:h-56  h-56   ">
             <!-- Item 1 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
               <img src="images/home/sl-1.jpg"
@@ -142,8 +143,8 @@
 
 
 
-  <section class="text-gray-600 body-font mx-auto w-4/5  hidden lg:block	">
-    <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+  <section class="text-gray-600 body-font mx-auto w-4/5  ">
+    <div class="container mx-auto flex px-5 py-10 md:flex-row flex-col items-center">
       <div
         class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
         <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Products
@@ -151,7 +152,9 @@
         <p class="mb-8 leading-relaxed">Our products are supplied Globally, we Carter to
           International and domestic markets. We strive to provide quality service and fulfill customised needs of
           customers.</p>
+          <img class="object-cover object-center rounded md:hidden" alt="hero" src="images/home/ProductPage-mb.jpg">
         <div class="flex justify-center">
+         
           <a href="/products"
             class="flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Visit
             our product page <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5}
@@ -161,8 +164,8 @@
 
         </div>
       </div>
-      <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-        <img class="object-cover object-center rounded" alt="hero" src="images/home/Dried Herbs & Veg.jpg">
+      <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 hidden md:block	">
+        <img class="object-cover object-center rounded" alt="hero" src="images/home/ProductPage-ing.jpg">
       </div>
     </div>
   </section>
@@ -223,7 +226,7 @@
 
 
 
-  <section class="text-white body-font overflow-hidden lg:hidden">
+  <!-- <section class="text-white body-font overflow-hidden lg:hidden">
     <div class="container mx-auto flex px-10 py-10 my-5 items-center justify-center flex-col ">
       <div class="lg:w-1/2 w-full p-10 text-center  w-full bg-fixed "
         style="background-image: url(images/home/produc-img.jpg);  background-position: center;   ">
@@ -243,7 +246,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
 
 
@@ -264,6 +267,7 @@
 
 
   <section class="text-gray-600 body-font relative " id="contact">
+    <img class="w-full" alt="hero" src="images/home/contact-img.jpg"/>
     <div class="container   mx-auto flex sm:flex-nowrap flex-wrap lg:w-3/4">
       <div class=" flex flex-col md:flex-row md:items-center items-start mx-auto">
         <div class="lg:w-1/2 md:w-full p-6">
